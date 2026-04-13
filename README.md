@@ -1,15 +1,14 @@
 # QuantMetrics Platform
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
-## 🚀 Overview
+##  Overview
 
 The QuantMetrics Platform is a robust, end-to-end machine learning and quantitative analysis system designed for processing complex datasets, performing advanced modeling, and generating actionable diagnostic insights.
 
 This platform integrates data preprocessing, model training, performance monitoring, and results logging into a cohesive workflow, providing a powerful tool for quantitative research and strategic decision-making.
 
-## ✨ Features
+##  Features
 
 *   **Data Management:** Structured ingestion and management of raw and processed data.
 *   **Advanced Modeling:** Supports various machine learning algorithms for accurate prediction and pattern recognition.
@@ -17,7 +16,7 @@ This platform integrates data preprocessing, model training, performance monitor
 *   **Workflow Automation:** Utilizes a modular structure (`src/` and `main.py`) to streamline the entire quantitative pipeline.
 *   **Reproducibility:** Maintains model versions and training artifacts (`saved_models/`, `mlruns/`) for easy reproduction and auditing.
 
-## 🛠️ Getting Started
+##  Getting Started
 
 These instructions will get the QuantMetrics Platform up and running on your local machine.
 
